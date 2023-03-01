@@ -11,6 +11,6 @@
 1. Install typescript and appium 2 globally by running `npm i -g typescript appium@next`
 2. Install Appium Flutter Driver globally by running `appium driver install --source=npm appium-flutter-driver`
 3. Run the appium server by running `appium --base-path /wd/hub` in a separate terminal
-4. cd to the '/test_server/nodejs' directory
+4. Open the IDE's Terminal and cd to the '/test_server/nodejs' directory
 5. Run the test by `npm start`
 
